@@ -39,5 +39,5 @@ Full NLP pipeline: TF-IDF vectorisation → K-Means clustering → B-CUBED preci
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-howen--tong-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/howen-tong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-howentong-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/howentong)
 [![Email](https://img.shields.io/badge/Email-tonghowen%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tonghowen@gmail.com)
